@@ -96,6 +96,7 @@ Projet réalisé par **Said Ouzzine**, Data Scientist spécialisé en :
 - analyse de données agronomiques,
 - pipelines R reproductibles,
 - modèles mixtes et ANOVA avancées.
+
 LinkedIn : https://www.linkedin.com/in/said-ouzzine/
   
 
