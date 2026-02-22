@@ -59,6 +59,8 @@ Le dépôt contient :
 - une organisation claire pour faciliter la reproductibilité.
 
 ```
+sursemis-legumineuses-qualite-fourragere
+│
 ├── data/
 │   ├── DonneesBrutes.csv
 │   ├── datalegum.csv
@@ -69,14 +71,13 @@ Le dépôt contient :
 │   ├── database2014.csv
 │   └── dataleg2014.csv
 ├── scripts/
-  ├── load_data.R
-  ├── factor_conversion.R
-  ├── plot_rendement.R
-  ├── model_rendement.R
-  ├── model_legumineuses.R
-  ├── model_nutrition.R
-  └── utils_diagnostics.R
-│   
+│ ├── load_data.R
+│ ├── factor_conversion.R
+│ ├── plot_rendement.R
+│ ├── model_rendement.R
+│ ├── model_legumineuses.R
+│ ├── model_nutrition.R
+│  └── utils_diagnostics.R
 └── README.md
 ```
 ---
