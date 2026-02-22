@@ -69,7 +69,14 @@ Le dépôt contient :
 │   ├── database2014.csv
 │   └── dataleg2014.csv
 ├── scripts/
-│   └── analyse_sursemis.R
+  ├── load_data.R
+  ├── factor_conversion.R
+  ├── plot_rendement.R
+  ├── model_rendement.R
+  ├── model_legumineuses.R
+  ├── model_nutrition.R
+  └── utils_diagnostics.R
+│   
 └── README.md
 ```
 ---
